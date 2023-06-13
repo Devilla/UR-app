@@ -1,0 +1,7 @@
+{
+    "name": "U&R SERVICES",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
