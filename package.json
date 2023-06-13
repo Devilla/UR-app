@@ -57,7 +57,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://Devilla.github.io/UR-app",
+  "homepage": "http://devilla.github.io/UR-app",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
