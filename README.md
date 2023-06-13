@@ -18,6 +18,7 @@ The cloned version is responsive as well.
 - [@Suraj Dongre](https://github.com/surajDongre-16)
 - [@Shreenath Panchal](https://github.com/Aknathpanchal)
 - [@Rohit Kumar](https://github.com/rk6093720)
+- [@Dev Yadav](https://github.com/devilla)
 
 
 
