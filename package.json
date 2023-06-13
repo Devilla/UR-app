@@ -1,8 +1,9 @@
 {
-  "name": "urban-company",
+  "name": "U&R SERVICES",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@capacitor/core": "^5.0.1",
     "@chakra-ui/icons": "^2.0.4",
     "@chakra-ui/react": "^2.2.4",
     "@emotion/react": "^11.9.3",

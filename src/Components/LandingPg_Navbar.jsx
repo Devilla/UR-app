@@ -87,7 +87,7 @@ export default function LandingPage_Navbar() {
             <Box>
               <Go to={`/${localStorage.getItem("location")}`}>
                 <Image
-                  src="https://res.cloudinary.com/urbanclap/image/upload/images/growth/home-screen/1631097450980-d2de38.png"
+                  src="/logo512.png"
                   width={"30%"}
                 />
               </Go>

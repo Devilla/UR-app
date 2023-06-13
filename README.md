@@ -1,6 +1,6 @@
 
-# Urban-Company Clone
-Urban company is an online webapp to get expert local services such as 
+# U&R Services
+U&R Services is an online webapp to get expert local services such as 
 repair services, grooming services etc...
 The company has separate app for mobile users and our cloned version is 
 for laptop and tablet users.

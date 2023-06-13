@@ -116,7 +116,7 @@ export default function LargeWithAppLinksAndSocial() {
           justify={{ md: "space-between" }}
           align={{ md: "center" }}
         >
-          <Text>© 2022 Urban Company. All rights reserved</Text>
+          <Text>© 2022 U&R Services. All rights reserved</Text>
           <Stack direction={"row"} spacing={6}>
             <SocialButton label={"Twitter"} href={"#"}>
               <FaTwitter />

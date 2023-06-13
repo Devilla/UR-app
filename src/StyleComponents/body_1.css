@@ -36,11 +36,11 @@
 }
 
 .heading {
-  font-family: "Abel", sans-serif;
+  /* font-family: "Abel", sans-serif; */
   color: rgb(181, 177, 177);
   width: 25rem;
   font-size: xx-large;
-  letter-spacing: 0.4em;
+  /* letter-spacing: 0.4em; */
 }
 
 .subHeading {
