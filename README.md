@@ -26,7 +26,7 @@ The cloned version is responsive as well.
 
 - Home Page
 
-![App Screenshot](https://i.ibb.co/Mf7PwLp/uc.png)
+<img width="948" alt="ur-homepage" src="https://github.com/Devilla/UR-app/assets/15603274/a34bf34a-949b-4eb0-afae-6339e39c544e">
 
 
 ## Features
